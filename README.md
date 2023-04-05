@@ -4,10 +4,10 @@
 
 <p>Desenvolvedor Java com experiência em manutenção e customização de sistemas acadêmicos e administrativos desenvolvidos em JavaWeb e sistemas de seleção usando tecnologias como Java, Spring Boot e PostgreSQL. Graduado em Sistema de Informação e Mestre em Ciência da Computação. Buscando aperfeiçoamento em tecnologias como React, Node JS, CSS e HTML.</p>
 
-<div >
+<div>
     <a href="https://github.com/fagnercosta">
-    <img  src="https://github-readme-stats.vercel.app/api?username=fagnercosta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img   src="https://github-readme-stats.vercel.app/api/top-langs/?username=fagnercosta&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fagnercosta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fagnercosta&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 
