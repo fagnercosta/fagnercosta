@@ -1,16 +1,34 @@
-### Hi there 👋
+<h1>Olá! Eu sou Fagner Costa</h1>
 
-<!--
-**fagnercosta/fagnercosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Analista de TI - Desenvolvedor Java</h2>
 
-Here are some ideas to get you started:
+<p>Desenvolvedor Java com experiência em manutenção e customização de sistemas acadêmicos e administrativos desenvolvidos em JavaWeb e sistemas de seleção usando tecnologias como Java, Spring Boot e PostgreSQL. Graduado em Sistema de Informação e Mestre em Ciência da Computação. Buscando aperfeiçoamento em tecnologias como React, Node JS, CSS e HTML.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+    <a href="https://github.com/fagnercosta">
+    <img width="440px" src="https://github-readme-stats.vercel.app/api?username=fagnercosta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+</br>
+    <img width="440px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fagnercosta&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+
+<div style="display: inline_block"><br>
+    <img style="margin-right: 10px;" align="center" alt="fagner-costa-Python" height="50" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img style="margin-right: 10px;" align="center" alt="fagner-costa-NodeJs" height="50" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>        
+    <img style="margin-right: 10px;" align="center" alt="fagner-costa-Js" height="50" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img style="margin-right: 10px;" align="center" alt="fagner-costa-HTML" height="50" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img style="margin-right: 10px;" align="center" alt="fagner-costa-CSS" height="50" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img style="margin-right: 10px;" align="center" alt="fagner-costa-Python" height="50" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+    <img style="margin-right: 10px;" align="center" alt="fagner-costa-Python" height="50" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/objectivec/objectivec-plain.svg">
+</div>
+
+<br>
+
+<div>
+    <a href="https://br.linkedin.com/in/raimundo-fagner-costa-247b52190" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="width: 140px;" target="_blank"></a>
+</br>
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
