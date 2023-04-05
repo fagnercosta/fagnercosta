@@ -1,6 +1,10 @@
 <h1>Olá! Eu sou Fagner Costa</h1>
 
-<h2>Analista de TI - Desenvolvedor Java</h2>
+<h2> Desenvolvedor</h2>
+
+- 🔥 Developevor Java | Node | Css | JavaScript | Html | Postgres | React | React Native
+- ⚡  Conhecimentos em Linux | Servidores | Docker | 
+
 
 <p>Desenvolvedor Java com experiência em manutenção e customização de sistemas acadêmicos e administrativos desenvolvidos em JavaWeb e sistemas de seleção usando tecnologias como Java, Spring Boot e PostgreSQL. Graduado em Sistema de Informação e Mestre em Ciência da Computação. Buscando aperfeiçoamento em tecnologias como React, Node JS, CSS e HTML.</p>
 
