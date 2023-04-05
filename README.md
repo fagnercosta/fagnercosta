@@ -6,10 +6,10 @@
 
 <div>
     <a href="https://github.com/fagnercosta">
-    <img width="440px" src="https://github-readme-stats.vercel.app/api?username=fagnercosta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=fagnercosta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
 </br>
-    <img width="440px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fagnercosta&layout=compact&langs_count=7&theme=dracula"/>
+    <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fagnercosta&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 
