@@ -22,7 +22,7 @@
     <img style="margin-right: 10px;" align="center" alt="fagner-costa-HTML" height="50" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img style="margin-right: 10px;" align="center" alt="fagner-costa-CSS" height="50" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img style="margin-right: 10px;" align="center" alt="fagner-costa-Python" height="50" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-    <img style="margin-right: 10px;" align="center" alt="fagner-costa-Python" height="50" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/objectivec/objectivec-plain.svg">
+    <img style="margin-right: 10px;" align="center" alt="fagner-costa-Python" height="50" width="45" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/react.svg)">
 </div>
 
 <br>
